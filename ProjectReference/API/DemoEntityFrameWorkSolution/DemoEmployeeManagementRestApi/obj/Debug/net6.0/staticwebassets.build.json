@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0l/W7g87zNm9ji+XeuaZ17qnpPZlwNbHa3FHvA9NgpQ=",
+  "Source": "DemoEmployeeManagementRestApi",
+  "BasePath": "_content/DemoEmployeeManagementRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

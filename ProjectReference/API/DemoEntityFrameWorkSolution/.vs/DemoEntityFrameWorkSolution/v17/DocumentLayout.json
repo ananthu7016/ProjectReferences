@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\model\\tblrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\model\\tblrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\model\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\model\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\model\\tblemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\model\\tblemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\model\\tbldepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\model\\tbldepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\viewmodel\\vw_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\viewmodel\\vw_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\model\\propeldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\model\\propeldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|d:\\asp web api\\demoentityframeworksolution\\demoemployeemanagementrestapi\\viewmodel\\empdeptviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF2CEC-C442-4A6E-8CDD-48D4729B503E}|DemoEmployeeManagementRestApi\\DemoEmployeeManagementRestApi.csproj|solutionrelative:demoemployeemanagementrestapi\\viewmodel\\empdeptviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Program.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\Program.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Program.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\Program.cs",
+              "ViewState": "AQIAAEEAAABAZmZmZqYowFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:07:38.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Repository\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\Repository\\ILoginRepository.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Repository\\ILoginRepository.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\Repository\\ILoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:52:34.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TblRole.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Model\\TblRole.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\Model\\TblRole.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Model\\TblRole.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\Model\\TblRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:15:43.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwCEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:23:22.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TblEmployee.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Model\\TblEmployee.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\Model\\TblEmployee.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Model\\TblEmployee.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\Model\\TblEmployee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:19:05.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:06:06.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\appsettings.json",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\appsettings.json",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T08:59:45.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TblUser.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Model\\TblUser.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\Model\\TblUser.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Model\\TblUser.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\Model\\TblUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:15:45.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Repository\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\Repository\\LoginRepository.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Repository\\LoginRepository.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\Repository\\LoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:30:27.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAkwCoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:49:48.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\appsettings.Development.json",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\appsettings.Development.json",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T08:58:35.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "vw_Department.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\ViewModel\\vw_Department.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\ViewModel\\vw_Department.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\ViewModel\\vw_Department.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\ViewModel\\vw_Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T01:50:11.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswEYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:30:18.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TblDepartment.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Model\\TblDepartment.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\Model\\TblDepartment.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Model\\TblDepartment.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\Model\\TblDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:19:02.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PropelDbContext.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Model\\PropelDbContext.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\Model\\PropelDbContext.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Model\\PropelDbContext.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\Model\\PropelDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:15:02.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmpDeptViewModel.cs",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\ViewModel\\EmpDeptViewModel.cs",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\ViewModel\\EmpDeptViewModel.cs",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\ViewModel\\EmpDeptViewModel.cs",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\ViewModel\\EmpDeptViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:27:43.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DemoEmployeeManagementRestApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ASP Web API\\DemoEntityFrameWorkSolution\\DemoEmployeeManagementRestApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DemoEmployeeManagementRestApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T10:18:29.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

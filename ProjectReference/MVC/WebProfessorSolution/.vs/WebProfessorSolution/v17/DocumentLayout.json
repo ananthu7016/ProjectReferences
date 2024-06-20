@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASPDotNet\\WebProfessorSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\views\\professor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\views\\professor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\views\\professor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\views\\professor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\views\\professor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\views\\professor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\views\\professor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\views\\professor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\repository\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\repository\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\wwwroot\\js\\editform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\wwwroot\\js\\editform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\wwwroot\\js\\createform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\wwwroot\\js\\createform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\repository\\iprofessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\repository\\iprofessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|d:\\aspdotnet\\webprofessorsolution\\webprofessorapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88B88A97-B263-48E3-A5D3-06C27A7E5290}|WebProfessorApplication\\WebProfessorApplication.csproj|solutionrelative:webprofessorapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateForm.js",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\wwwroot\\js\\CreateForm.js",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\wwwroot\\js\\CreateForm.js",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\wwwroot\\js\\CreateForm.js",
+              "RelativeToolTip": "WebProfessorApplication\\wwwroot\\js\\CreateForm.js",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-06T02:19:04.402Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Views\\Professor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\Views\\Professor\\Delete.cshtml",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Views\\Professor\\Delete.cshtml",
+              "RelativeToolTip": "WebProfessorApplication\\Views\\Professor\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T01:38:38.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Views\\Professor\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\Views\\Professor\\Create.cshtml",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Views\\Professor\\Create.cshtml",
+              "RelativeToolTip": "WebProfessorApplication\\Views\\Professor\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T14:14:24.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Views\\Professor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\Views\\Professor\\Edit.cshtml",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Views\\Professor\\Edit.cshtml",
+              "RelativeToolTip": "WebProfessorApplication\\Views\\Professor\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T14:40:36.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Views\\Professor\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\Views\\Professor\\Index.cshtml",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Views\\Professor\\Index.cshtml",
+              "RelativeToolTip": "WebProfessorApplication\\Views\\Professor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T13:19:54.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfessorRepository.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Repository\\ProfessorRepository.cs",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\Repository\\ProfessorRepository.cs",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Repository\\ProfessorRepository.cs",
+              "RelativeToolTip": "WebProfessorApplication\\Repository\\ProfessorRepository.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAawL8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T01:54:37.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditForm.js",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\wwwroot\\js\\EditForm.js",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\wwwroot\\js\\EditForm.js",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\wwwroot\\js\\EditForm.js",
+              "RelativeToolTip": "WebProfessorApplication\\wwwroot\\js\\EditForm.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-06T06:22:56.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\Controllers\\ProfessorController.cs",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "WebProfessorApplication\\Controllers\\ProfessorController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAowGMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:07:05.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebProfessorApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:34:11.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Program.cs",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\Program.cs",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Program.cs",
+              "RelativeToolTip": "WebProfessorApplication\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAhwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T01:45:25.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebProfessorApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T06:31:50.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\Models\\Department.cs",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Models\\Department.cs",
+              "RelativeToolTip": "WebProfessorApplication\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:06:08.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\appsettings.Development.json",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\appsettings.Development.json",
+              "RelativeToolTip": "WebProfessorApplication\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T01:58:37.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProfessorRepository.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Repository\\IProfessorRepository.cs",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\Repository\\IProfessorRepository.cs",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Repository\\IProfessorRepository.cs",
+              "RelativeToolTip": "WebProfessorApplication\\Repository\\IProfessorRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T01:50:37.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\Models\\Professor.cs",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Models\\Professor.cs",
+              "RelativeToolTip": "WebProfessorApplication\\Models\\Professor.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T01:45:59.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebProfessorApplication\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ASPDotNet\\WebProfessorSolution\\WebProfessorApplication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebProfessorApplication\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:44:43.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

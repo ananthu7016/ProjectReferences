@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\employeemanagementdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\employeemanagementdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\models\\tblemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\models\\tblemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\wwwroot\\js\\employeevalidation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\wwwroot\\js\\employeevalidation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|d:\\aspdotnet\\employeemanagementdemosolution\\employeemanagementdemo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417FC9AD-FE53-4F21-881B-69044ED867EC}|EmployeeManagementDemo\\EmployeeManagementDemo.csproj|solutionrelative:employeemanagementdemo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TblEmployee.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Models\\TblEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Models\\TblEmployee.cs",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Models\\TblEmployee.cs",
+              "RelativeToolTip": "EmployeeManagementDemo\\Models\\TblEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:19:44.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EmployeeManagementDemo\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:10:16.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Models\\Employee.cs",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementDemo\\Models\\Employee.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAA1wDIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:27:05.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeManagementDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAzwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:32:12.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagementDemo\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAswGgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:00:54.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeManagementDemo.csproj",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\EmployeeManagementDemo.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\EmployeeManagementDemo.csproj",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\EmployeeManagementDemo.csproj",
+              "RelativeToolTip": "EmployeeManagementDemo\\EmployeeManagementDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T11:37:30.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "EmployeeManagementDemo\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T07:33:15.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\appsettings.Development.json",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\appsettings.Development.json",
+              "RelativeToolTip": "EmployeeManagementDemo\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T07:27:14.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Program.cs",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:16:19.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagementDemo\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:06:27.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "EmployeeManagementDemo\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T07:28:49.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagementDemo\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T06:56:32.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeManagementDemo\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T07:20:45.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "EmployeeManagementDemo\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T12:35:28.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagementDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T11:53:22.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Models\\UserInfo.cs",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Models\\UserInfo.cs",
+              "RelativeToolTip": "EmployeeManagementDemo\\Models\\UserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:15:54.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagementDemo\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBoAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T04:58:58.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeValidation.js",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\wwwroot\\js\\EmployeeValidation.js",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\wwwroot\\js\\EmployeeValidation.js",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\wwwroot\\js\\EmployeeValidation.js",
+              "RelativeToolTip": "EmployeeManagementDemo\\wwwroot\\js\\EmployeeValidation.js",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-04T11:10:26.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeManagementDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T11:45:46.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\appsettings.json",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagementDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T13:18:02.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ASPDotNet\\EmployeeManagementDemoSolution\\EmployeeManagementDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EmployeeManagementDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T11:21:28.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
